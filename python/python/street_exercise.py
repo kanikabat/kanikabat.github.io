@@ -8,5 +8,5 @@ address_info = {
 
 print (address_info['name'])
 print (address_info['street']),
- address_info['state'],
+address_info['state'],
 address_info['zip]'])
