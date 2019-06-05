@@ -9,4 +9,4 @@ for page in pages:
 	url = domain + page
 	urls.append(url)
 
-urls
+print urls
